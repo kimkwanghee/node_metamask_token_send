@@ -11,7 +11,7 @@ const contractAddress = '0x912E418b343C3F765aB8711B65189e03Be1E0CB6'
 
 const contractOwner = {
 	addr: '0x329447FBd7f07cBf57AFD1eB1AEfB5E0711d290b',
-	key: '1db655eaed2b2679c0091377d12a859e89ea00f62186255cb301990daf124eee'
+	key: 'ada3c7a349740dd98cf2abd1c04f0bd106135ed17d4c93f62ffae561702933cf'
 };
 
 module.exports = function (app) {
